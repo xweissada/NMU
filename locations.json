@@ -1,0 +1,96 @@
+[
+    {
+        "heading": 42.04183007798008,
+        "pitch": 15.130632887845337,
+        "zoom": 0.16991565601906633,
+        "panoId": "g-msPkkZQB-EEOwjkqXIFg",
+        "countryCode": null,
+        "stateCode": null,
+        "lat": 37.78568822835054,
+        "lng": -122.40131290910467
+    },
+    {
+        "heading": 56.49732728581782,
+        "pitch": 3.9028641645826525,
+        "zoom": 0.16992500144231237,
+        "panoId": "ob8kFkU_EFHdYp6RhpvADw",
+        "countryCode": null,
+        "stateCode": null,
+        "lat": 40.73319279441332,
+        "lng": -73.99104057468918
+    },
+    {
+        "heading": 107.20987371280614,
+        "pitch": -4.960609179881516,
+        "zoom": 0.16992500144231237,
+        "panoId": "NGqTjCGyS9jvNS0o2wF9Zg",
+        "countryCode": null,
+        "stateCode": null,
+        "lat": 40.876265148801316,
+        "lng": -73.60530939923098
+    },
+    {
+        "heading": 21.05569991415372,
+        "pitch": -11.768184534197061,
+        "zoom": 3.095767044928801,
+        "panoId": "EcQ27xXJoro3Q27KnTUDvA",
+        "countryCode": null,
+        "stateCode": null,
+        "lat": 41.13948663358876,
+        "lng": 16.815864955125075
+    },
+    {
+        "heading": 137.73142321678344,
+        "pitch": 3.7890749119061695,
+        "zoom": 1,
+        "panoId": "_-rb_ZlJ_rJEF0Z54zX-BA",
+        "countryCode": null,
+        "stateCode": null,
+        "lat": 43.20005052345511,
+        "lng": 5.6325372391985535
+    },
+    {
+        "heading": 343.4608004350515,
+        "pitch": 5.057597513505428,
+        "zoom": 0.16992500144231237,
+        "panoId": "CAoSLEFGMVFpcE42Q0R6Zm5WbXREdXFtSWxnMldCODJMMWg5RFZMUElxUVgwaHdM",
+        "countryCode": null,
+        "stateCode": null,
+        "lat": 61.817027592893325,
+        "lng": -74.1854758267389
+    },
+    {
+        "heading": 157.23607739561464,
+        "pitch": 0.8348442220748353,
+        "zoom": 1,
+        "panoId": "PY6zgOTydAiAoHhjdKVnQw",
+        "countryCode": null,
+        "stateCode": null,
+        "lat": 48.10126002145356,
+        "lng": -123.5583521138885
+    },
+    {
+        "lat": 34.04797162937895,
+        "lng": -118.24735316479247,
+        "heading": 0.8278555310194511,
+        "pitch": 12.946530754658781,
+        "zoom": 0.9629469912336739,
+        "panoId": "LpLd4DaMBx2QrVjercNhQg"
+    },
+    {
+        "lat": 51.523546833122694,
+        "lng": -0.07054829488749845,
+        "heading": 15.29308342311673,
+        "pitch": -18.388173869047947,
+        "zoom": 1,
+        "panoId": "KlQt62pe2cS46asWDa7nOw"
+    },
+    {
+        "lat": 37.38457673278301,
+        "lng": -5.992382969260289,
+        "heading": 36.38110479418927,
+        "pitch": 18.70426945574401,
+        "zoom": 1,
+        "panoId": "GssKAv9mat7t6IGBYDt5rQ"
+    }
+]
