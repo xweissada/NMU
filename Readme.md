@@ -41,7 +41,7 @@ Markéta Baňková - NYC Map (1999-2001)
 ### 401 Main St, Los Angeles, California
 Amalia Ulman - Excellences & Perfections (2014)
 
-The location of one of Amalia Ulman's Instagram posts during the Excellences & Perfections performance.
+The location of one of Amalia Ulman's Instagram posts during the [Excellences & Perfections](https://webarchives.rhizome.org/excellences-and-perfections/) performance.
 
 ![amalia_ulman](img/amalia_ulman.png)
 
